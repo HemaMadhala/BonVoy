@@ -2,12 +2,8 @@ package com.bonvoy.userservice.user.entity;
 
 import com.bonvoy.userservice.user.enums.Role;
 import com.bonvoy.userservice.user.enums.UserStatus;
-import jakarta.annotation.Nullable;
 import jakarta.persistence.*;
 import lombok.*;
-import org.springframework.boot.autoconfigure.web.WebProperties;
-import org.springframework.data.annotation.CreatedDate;
-import org.springframework.data.annotation.LastModifiedDate;
 
 import java.time.LocalDateTime;
 
