@@ -21,7 +21,3 @@ BonVoy is a railway passenger experience platform that provides:
 - MongoDB
 - Kafka
 - Redis
-
-## Architecture
-
-[Diagram Here]
