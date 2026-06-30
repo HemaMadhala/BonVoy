@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: userservice
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/bonvoy_users
+    username: postgres
+    password: postgres
+
+  jpa:
+    show-sql: true
+
+  flyway:
+    enabled: true
+
+server:
+  port: 8081
